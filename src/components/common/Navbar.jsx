@@ -30,6 +30,7 @@ const NavBar = ({user}) => {
             ))
 
           }
+          
           {
             user&&(
                 <li>
